@@ -38,7 +38,7 @@ contract Lottery is VRFConsumerBase {
         require(msg.sender!=owner,"owner can not participate");
         require(block.timestamp >= startTime," entering before start time");
         require(block.timestamp < endTime," entering after end time");
-        require(msg.value>=1000000000000000,"0.1 ether is needed");
+        require(msg.value>=100000000000000000,"0.1 ether is needed");
         participant.push(msg.sender);
     }
 
