@@ -9,7 +9,7 @@
 3. Remix
 4. Infura
 5. kovan Test net
-6. Deployed contract address link: https://kovan.etherscan.io/address/0x86F201A92f4Aa885cbf8650CcAE62a7875b7b8C9
+6. Deployed contract address link: https://kovan.etherscan.io/address/0x56504D70cE338DC7e9e4707F1E6d55521Eb01446
 
 ## Functions
 
